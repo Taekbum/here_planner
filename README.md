@@ -2,7 +2,7 @@
 
 <a href='https://taekbum.github.io/here'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <a href='https://arxiv.org/pdf/2601.07242'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a>
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=SsWdB-_5XM0)
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?si=4QR8HR8PZVSvw1hH&v=FkY7t2IeWhE&feature=youtu.be)
 
 
 This is an official implementation of the paper "HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization". 
