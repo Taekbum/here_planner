@@ -1,0 +1,12 @@
+data
+
+*.pyc
+
+
+results
+tmp
+
+.vscode
+
+coslam/
+src copy

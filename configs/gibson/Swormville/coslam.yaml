@@ -1,0 +1,7 @@
+inherit_from: configs/gibson/gibson_coslam.yaml
+mapping:
+  bound: [[-0.8,6.4],[-3.4,7.3],[-0.4,2.9]]
+  marching_cubes_bound: [[-0.8,6.4],[-3.4,7.3],[-0.4,2.9]]
+
+data:
+  trainskip: 1
