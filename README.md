@@ -7,8 +7,8 @@
 
 This is an official implementation of the paper "HERE: Hierarchical Active Exploration of Radiance Field with Epistemic Uncertainty Minimization". 
 
-[Taekbeom Lee](https://ziyue.cool/)<sup>\*1</sup>, 
-[Dabin Kim](https://huangying-zhan.github.io/)<sup>\*1</sup>, 
+[Taekbeom Lee](https://taekbum.github.io/)<sup>\*1</sup>, 
+[Dabin Kim](https://dabinkim.com/)<sup>\*1</sup>, 
 [Youngseok Jang]()<sup>1</sup>, 
 [H. Jin Kim]()<sup>1</sup>
 
